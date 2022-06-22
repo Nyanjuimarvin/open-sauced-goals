@@ -1,39 +1,39 @@
 [
   {
     "full_name": "google-developer-training/android-basics-kotlin-inventory-app",
-    "stargazers_count": 46,
-    "open_issues_count": 20,
-    "forks_count": 68
+    "stargazers_count": 47,
+    "open_issues_count": 19,
+    "forks_count": 69
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 60294,
+    "stargazers_count": 60355,
     "open_issues_count": 2,
-    "forks_count": 5851
+    "forks_count": 5854
   },
   {
     "full_name": "thedaviddias/Front-End-Design-Checklist",
-    "stargazers_count": 4493,
+    "stargazers_count": 4499,
     "open_issues_count": 0,
-    "forks_count": 363
+    "forks_count": 364
   },
   {
     "full_name": "thedaviddias/Front-End-Performance-Checklist",
-    "stargazers_count": 14513,
+    "stargazers_count": 14515,
     "open_issues_count": 11,
     "forks_count": 1064
   },
   {
     "full_name": "amilajack/project-checklist",
-    "stargazers_count": 645,
+    "stargazers_count": 647,
     "open_issues_count": 11,
     "forks_count": 63
   },
   {
     "full_name": "microsoft/GSL",
-    "stargazers_count": 5005,
-    "open_issues_count": 20,
-    "forks_count": 662
+    "stargazers_count": 5010,
+    "open_issues_count": 21,
+    "forks_count": 663
   },
   {
     "full_name": "requestly/requestly-android-sdk",
@@ -43,19 +43,19 @@
   },
   {
     "full_name": "slatedocs/slate",
-    "stargazers_count": 34187,
-    "open_issues_count": 45,
-    "forks_count": 21496
+    "stargazers_count": 34204,
+    "open_issues_count": 44,
+    "forks_count": 21504
   },
   {
     "full_name": "wasabeef/awesome-android-ui",
-    "stargazers_count": 42800,
+    "stargazers_count": 42851,
     "open_issues_count": 17,
-    "forks_count": 10196
+    "forks_count": 10199
   },
   {
     "full_name": "aldefy/Andromeda",
-    "stargazers_count": 123,
+    "stargazers_count": 124,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "rookiemonkey/dummy-products-api",
-    "stargazers_count": 112,
+    "stargazers_count": 114,
     "open_issues_count": 5,
     "forks_count": 24
   },
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "GrenderG/Toasty",
-    "stargazers_count": 6343,
+    "stargazers_count": 6342,
     "open_issues_count": 48,
     "forks_count": 809
   },
   {
     "full_name": "massCodeIO/massCode",
-    "stargazers_count": 777,
+    "stargazers_count": 794,
     "open_issues_count": 1,
     "forks_count": 17
   },
@@ -115,27 +115,27 @@
   },
   {
     "full_name": "rowyio/feedbackfin",
-    "stargazers_count": 173,
+    "stargazers_count": 175,
     "open_issues_count": 4,
     "forks_count": 8
   },
   {
     "full_name": "keploy/keploy",
-    "stargazers_count": 729,
-    "open_issues_count": 21,
-    "forks_count": 49
+    "stargazers_count": 745,
+    "open_issues_count": 19,
+    "forks_count": 50
   },
   {
     "full_name": "gskinner/regexr",
-    "stargazers_count": 8455,
+    "stargazers_count": 8467,
     "open_issues_count": 153,
-    "forks_count": 863
+    "forks_count": 865
   },
   {
     "full_name": "pedant/sweet-alert-dialog",
     "stargazers_count": 7247,
     "open_issues_count": 165,
-    "forks_count": 1969
+    "forks_count": 1968
   },
   {
     "full_name": "adrianmg/github-pewpew",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "firebase/FirebaseUI-Android",
-    "stargazers_count": 4407,
-    "open_issues_count": 92,
-    "forks_count": 1886
+    "stargazers_count": 4409,
+    "open_issues_count": 91,
+    "forks_count": 1885
   },
   {
     "full_name": "josephbill/COVIDApiExample",
@@ -170,13 +170,13 @@
   {
     "full_name": "kaaes/spotify-web-api-android",
     "stargazers_count": 371,
-    "open_issues_count": 53,
-    "forks_count": 143
+    "open_issues_count": 52,
+    "forks_count": 142
   },
   {
     "full_name": "udacity/andfun-kotlin-mars-real-estate",
     "stargazers_count": 89,
     "open_issues_count": 13,
-    "forks_count": 209
+    "forks_count": 210
   }
 ]
